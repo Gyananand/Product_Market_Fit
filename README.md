@@ -7,17 +7,17 @@ This project focuses on **data-driven market fit research** for launching air pu
 
 ## 🎥 Project Presentation
 
-* **Full Video:** [YouTube Link](https://www.youtube.com/watch?v=mfxvr3fZ2I8) *(Replace with actual link)*
+* **Full Video:** [YouTube Link](https://www.youtube.com/watch?v=mfxvr3fZ2I8)
 * **Secondary Analysis Docs:** [Google Drive Link](https://organic-marjoram-548.notion.site/RPC16-Secondary-Analysis-24881b3810c980d1b5cbcbeadfd02cb8)
 * **Live Dashborad:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjNjMDMwZTMtMDAzNS00MTdmLWEzY2YtNmVlMzRmNTU0ZDQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 * **Google Trend:** [Air Purifier Trend](https://trends.google.com/trends/explore?date=today%205-y&geo=IN&q=%2Fm%2F04gjp9,%2Fm%2F0dc7h&hl=en)
 
 
 The goal:
-✅ Identify **high-risk, high-priority cities** for product launch
-✅ Understand **pollution patterns & health impacts**
-✅ Recommend **product features based on consumer pain points & market gaps**
-✅ Build a **Power BI dashboard** for management decision-making
+* ✅ Identify **high-risk, high-priority cities** for product launch
+* ✅ Understand **pollution patterns & health impacts**
+* ✅ Recommend **product features based on consumer pain points & market gaps**
+* ✅ Build a **Power BI dashboard** for management decision-making
 
 ---
 
